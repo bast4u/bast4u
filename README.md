@@ -35,7 +35,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 					</p>
-					<p><strong>Symfony - Mongodb - PHPunit - Javascript - API - Git</strong></p>
+					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
 					<p>
 					Refonte de l'espace "mon compte" du site UGC. <b> Ce projet est toujours en cours de développement. </b>
 					</p>
