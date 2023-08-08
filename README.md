@@ -36,8 +36,8 @@
 						</a>
 					</p>
 					<p><strong>Symfony - Mongodb - PHPunit - Javascript - API - Git</strong></p>
-          <p>
-						XXXXXXXXXXXXXXXXXXXXXXXXXXXX. <b> Ce projet est toujours en cours de développement. </b>
+					<p>
+					Refonte de l'espace "mon compte" du site UGC. <b> Ce projet est toujours en cours de développement. </b>
 					</p>
 				</div>
 			</td>
