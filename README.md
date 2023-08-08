@@ -37,7 +37,7 @@
 					</p>
 					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
 					<p>
-					Refonte de l'espace "mon compte" du site UGC. <b> Ce projet est toujours en cours de développement. </b>
+					Ce projet est le fruit d'un travail collaboratif entre 4 designers UI/UX et 4 développeurs. Notre objectif est celui d'une refonde de l'espace "Mon Compte" sur le site UGC. <b> Ce projet est toujours en cours de développement. </b>
 					</p>
 				</div>
 			</td>
