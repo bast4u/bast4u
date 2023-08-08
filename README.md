@@ -42,18 +42,17 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Portfolio</h3>
+				<h3 align="center">XXXXXXXXXX</h3>
 				<div align="center" >  
-					<a href='https://matthcorvo.github.io/portfolio/' target="_blank">
-						<img src="./assets/pf.png" alt="project 2" height="100%" />
+					<a href='' target="_blank">
+						<img src="" alt="projet_2" height="100%" />
 					</a>
-					<br>
-					<br>
+					<br><br>
 					<p>
-						<a href="https://github.com/matthCorvo/portfolio/" target="_blank">
+						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://matthcorvo.github.io/portfolio/" target="_blank">
+						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
@@ -63,7 +62,7 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Code Saver</h3>
+                <h3 align="center">XXXXX</h3>
                 <div align="center" >  
                     <a href='http://codesaver.alwaysdata.net/' target="_blank">
                         <img src="./assets/cs.png" alt="project 3" height="100%" />
@@ -71,30 +70,30 @@
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/matthCorvo/CodeSaver" target="_blank">
+                        <a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="http://codesaver.alwaysdata.net/" target="_blank">
+						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>PHP - MySQL - Bootstrap - Javascript - PHPunit</strong></p>
-		    <p>Permet aux développeurs de sauvegarder et classer leurs extraits de code.</p>
+		    <p>.</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Attrape Bokits</h3>
+                <h3 align="center">XXXX</h3>
                 <div align="center">  
-                    <a href='http://bokitgame.alwaysdata.net' target="_blank">
-                        <img src="./assets/bokit.png" alt="project 4" height="100%" />
+                    <a href='' target="_blank">
+                        <img src="" alt="projet_4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/matthCorvo/bokitGameV2" target="_blank">
+                        <a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="http://bokitgame.alwaysdata.net" target="_blank">
+						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
