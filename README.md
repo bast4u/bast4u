@@ -31,7 +31,7 @@
 					</a>
 					<br><br>
 					<p>
-						<a href="https://github.com/vAbattoir2023/abattoir_vegetal/tree/MatthFin" target="_blank">
+						<a href="https://github.com/teamugc/projet_ugc/tree/bastien_020823" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 					</p>
