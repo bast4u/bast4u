@@ -64,7 +64,7 @@
             <td width="50%">
                 <h3 align="center">XXXXX</h3>
                 <div align="center" >  
-                    <a href='http://codesaver.alwaysdata.net/' target="_blank">
+                    <a href='' target="_blank">
                         <img src="./assets/cs.png" alt="project 3" height="100%" />
                     </a>
                     <br>
@@ -98,7 +98,7 @@
 						</a>	
                     </p>
                     <p><strong>Javascript - CSS - HTML - PHP - MySQL</strong></p>
-		    <p>les joueurs doivent cliquer sur des bokits en mouvement pour marquer des points. Le jeu utilise JavaScript, PHP et MySQL pour gérer le gameplay et enregistrer les scores.</p>
+		    <p>.</p>
                 </div>	
             </td>
         </tr>
