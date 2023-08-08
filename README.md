@@ -35,7 +35,7 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
 						<a href="https://www.behance.net/gallery/176821791/Mon-UGC-Projet-La-Passerelle">
-							<img src="https://img.shields.io/badge/Behance-lightgrey?style=for-the-badge&color=#1637B4">
+							<img src="https://img.shields.io/badge/Behance-lightgrey?style=for-the-badge">
 						</a>
 					</p>
 					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
