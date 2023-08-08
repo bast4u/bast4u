@@ -41,8 +41,7 @@
 					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
 					<p>
 					Ce projet est le fruit d'un travail collaboratif entre 4 designers UI/UX et 4 développeurs. Notre objectif est celui d'une refonte de l'espace "Mon Compte" sur le site UGC. <br><br>
-						Voici le lien du <a href="https://www.behance.net/gallery/176821791/Mon-UGC-Projet-La-Passerelle">behance</a><br>
-						<br><b> Ce projet est toujours en cours de développement. </b>
+					<b> Ce projet est toujours en cours de développement. </b>
 					</p>
 				</div>
 			</td>
