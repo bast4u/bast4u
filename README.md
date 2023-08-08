@@ -40,7 +40,7 @@
 					</p>
 					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
 					<p>
-					Ce projet est le fruit d'un travail collaboratif entre 4 designers UI/UX et 4 développeurs. Notre objectif est celui d'une refonte de l'espace "Mon Compte" sur le site UGC. <br><br>
+					Ce projet est le fruit d'un travail collaboratif entre 4 UI/UX designers et 4 développeurs. Notre objectif est celui d'une refonte de l'espace "Mon Compte" sur le site UGC, avec l'ajout lors de l'inscription, de préférences telles que le genre du film, les acteurs, les réalisateurs ou encore le cinéma. Cela permet à l'utilisateur de pouvoir visualiser les films actuellement au cinéma selon ses préférences <br><br>
 					<b> Ce projet est toujours en cours de développement. </b>
 					</p>
 				</div>
