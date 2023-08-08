@@ -34,11 +34,14 @@
 						<a href="https://github.com/teamugc/projet_ugc/tree/bastien_020823" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
+						<a href="https://www.behance.net/gallery/176821791/Mon-UGC-Projet-La-Passerelle">
+							<img src="https://img.shields.io/badge/Behance-lightgrey?style=for-the-badge&color=#deepblue">
+						</a>
 					</p>
 					<p><strong> PHP - Symfony - Mongodb - Javascript - API - Git </strong></p>
 					<p>
-					Ce projet est le fruit d'un travail collaboratif entre 4 designers UI/UX et 4 développeurs. Notre objectif est celui d'une refonte de l'espace "Mon Compte" sur le site UGC. 
-						Voici le lien du [behance](https://www.behance.net/gallery/176821791/Mon-UGC-Projet-La-Passerelle)
+					Ce projet est le fruit d'un travail collaboratif entre 4 designers UI/UX et 4 développeurs. Notre objectif est celui d'une refonte de l'espace "Mon Compte" sur le site UGC. <br><br>
+						Voici le lien du <a href="https://www.behance.net/gallery/176821791/Mon-UGC-Projet-La-Passerelle">behance</a><br>
 						<br><b> Ce projet est toujours en cours de développement. </b>
 					</p>
 				</div>
