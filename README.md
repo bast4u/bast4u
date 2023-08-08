@@ -27,7 +27,7 @@
 				<h3 align="center">Mon UGC</h3>
 				<div align="center">  
 					<a href='' target="_blank">
-						<img src="./assets/veg.png" alt="projet_1" height="100%" />
+						<img src="./assets/mon_UGC.png" alt="projet_1" height="100%" />
 					</a>
 					<br><br>
 					<p>
