@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQEdIPc96X2vEw/profile-displaybackgroundimage-shrink_350_1400/0/1688634592974?e=1697068800&v=beta&t=TXCji2I1zA7Q0Xu1J8KX1vEQCzzXuhYoK9sFquB7YyM)
+
 <h1 align="center">Bonjour 👋, je m'appelle Bastien Stacherski</h1>
 
 <h3 align="center">Un développeur back-end passionné !</h3>
