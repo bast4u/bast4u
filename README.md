@@ -1,7 +1,7 @@
 
 <h1 align="center">Bonjour 👋, je m'appelle Bastien Stacherski</h1>
 
-<h3 align="center">Un développeur back-end passionné !</h3>
+<h3 align="center">Un développeur full stack passionné !</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" />
 
