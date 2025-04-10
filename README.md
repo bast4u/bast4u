@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" />
 
-- 🔭 Je travaille actuellement sur le projet "**Mon UGC**"
+- 🔭 Je travaille actuellement sur le projet "**Kiddiz**"
 
 - 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://bast4u.github.io/portfolio/index.html#projects)
 
