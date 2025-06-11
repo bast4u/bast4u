@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur le projet "**Kiddiz**"
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://bast4u.github.io/portfolio/index.html#projects) (pas à jour)
+- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://peppy-donut-abf8fd.netlify.app)
 
 - 📫 Comment me contacter **bastien.stacherskipro@gmail.com**
 
